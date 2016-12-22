@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TakeTaxiUser</string>
+    <string name="user_title">欢迎使用极客打车客户端</string>
+    <string name="search_title">搜索</string>
+    <string name="begin_location">出发地</string>
+    <string name="dest_location">目的地</string>
+</resources>
